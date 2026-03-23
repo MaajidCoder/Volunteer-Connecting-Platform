@@ -3,6 +3,9 @@
 A full-stack MERN web application designed to empower college communities by seamlessly connecting passionate student volunteers with clubs, departments, and faculty organizers. 
 
 ## 🚀 Live Features
+<img width="1912" height="922" alt="image" src="https://github.com/user-attachments/assets/b4240253-4fd1-4e15-b079-c6ec2603889e" />
+<img width="1893" height="912" alt="image" src="https://github.com/user-attachments/assets/865beaaf-62d7-4ad7-807d-8eedbcce25b5" />
+<img width="1887" height="905" alt="image" src="https://github.com/user-attachments/assets/2b4d6a33-f9a7-4f8e-a8c8-b5d5409cd1ad" />
 
 ### For Volunteers (Students):
 - **Browse Opportunities:** Explore a visually appealing feed of upcoming volunteering events across the campus.
